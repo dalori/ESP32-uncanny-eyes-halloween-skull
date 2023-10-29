@@ -2,6 +2,8 @@
 
 Build a Halloween skull with living eyes and moving jaw.
 
+Full instruction: https://www.instructables.com/Uncanny-Eyes-Halloween-Skull-Animatronic/
+
 The eyes are inspired by [Adafruit’s uncanny eyes](https://github.com/adafruit/Uncanny_Eyes/). The code was adopted is an adaption of the [TFT_eSPI example](https://github.com/Bodmer/TFT_eSPI/).
 
 It contains 240px eyes instead of 128px to run on two round 1.28" TFT GC9A01 display modules with 240x240 resolution.
